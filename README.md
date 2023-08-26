@@ -1,2 +1,2 @@
 # Learning Log
-This project was made in Django.
+This project was made in <b><i>Django</i></b>.
